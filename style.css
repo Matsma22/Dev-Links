@@ -162,7 +162,7 @@ ul li a:hover {
   }
 }
 
-/* animation */
+/* animation, */
 @keyframes slide-in {
   from {
     left: 0;
